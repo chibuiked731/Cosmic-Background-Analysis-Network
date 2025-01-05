@@ -9,3 +9,5 @@ N
 contracts/cmb-pattern-nft.clar,5/8/58a70d3f48c5fd2f2158cee99f03242d59acdf36
 M
 contracts/ncentive-token.clar,d/2/d2694319adea8f3b67bafc6059da34f2d9ed4349
+V
+&tests/data-analysis-management.test.ts,9/c/9cddb0535aba94e68ce514ac7202e37e67e19a93
